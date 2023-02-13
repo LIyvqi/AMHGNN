@@ -24,5 +24,5 @@ torch == 1.9.1+cu111
 ## Train and Evaluate
 
 ``` bash
-python main.py
+python train.py
 ```
