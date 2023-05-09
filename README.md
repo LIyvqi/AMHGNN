@@ -34,6 +34,10 @@ torch == 1.9.1+cu111
 python train.py
 ```
 
+## Parameter settings
+
+Our code includes detailed parameter settings, and we have set random seeds to ensure reproducibility.	
+
 ## Reference
 [1] Shebuti Rayana and Leman Akoglu, ‘Collective opinion spam detection: Bridging review networks and metadata’, in SIGKDD, pp. 985–
 994. ACM, (2015).
